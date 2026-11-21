@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0B1F4B"/>
+  <path fill="#EC6068" d="M248 190C236 152 200 124 164 126C126 128 104 160 108 198C113 252 196 300 248 388Z"/>
+  <g fill="none" stroke-width="26" stroke-linecap="round" stroke-dasharray="0.01 137.99">
+    <path stroke="#6FAAD8" stroke-dashoffset="-24" d="M264 190C276 152 312 124 348 126C386 128 408 160 404 198C399 252 316 300 264 388"/>
+    <path stroke="#F2C335" stroke-dashoffset="-70" d="M264 190C276 152 312 124 348 126C386 128 408 160 404 198C399 252 316 300 264 388"/>
+    <path stroke="#EC6068" stroke-dashoffset="-116" d="M264 190C276 152 312 124 348 126C386 128 408 160 404 198C399 252 316 300 264 388"/>
+  </g>
+</svg>
